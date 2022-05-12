@@ -19,13 +19,11 @@ Inputs for searched cities are saved in local storage.
 
 The below screenshot shows final version of webpage.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
 
 ## Links
 
-Published Site:
-GitHub:
+Published Site: https://deven1991.github.io/WeatherDashboard/
+GitHub: https://github.com/Deven1991/WeatherDashboard.git
