@@ -17,11 +17,10 @@ Inputs for searched cities are saved in local storage.
 ## Screenshot
 
 
-The below screenshot shows final version of webpage.
+The below screenshot shows final version of webpage. Screenshot shows currentw weather conditions and 5 day forecast for Flint.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](assets/images/screenshot.png)
+
 
 ## Links
 
